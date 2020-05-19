@@ -1,0 +1,71 @@
+{
+    "success": true,
+  "msg": "查询成功",
+  "data": [
+    {
+      "nodename": "申请",
+      "id": 7306,
+      "time": 0
+    },
+    {
+      "nodename": "BPL",
+      "id": 7308,
+      "time": 2
+    },
+    {
+      "nodename": "部门负责人",
+      "id": 7309,
+      "time": 35
+    },
+    {
+      "nodename": "事业部负责人",
+      "id": 7310,
+      "time": 0
+    },
+    {
+      "nodename": "分管领导",
+      "id": 7311,
+      "time": 174
+    },
+    {
+      "nodename": "子公司HR负责人",
+      "id": 7312,
+      "time": 0
+    },
+    {
+      "nodename": "子公司部门负责人",
+      "id": 7314,
+      "time": 0
+    },
+    {
+      "nodename": "子公司负责人",
+      "id": 7313,
+      "time": 0
+    },
+    {
+      "nodename": "归档",
+      "id": 7307,
+      "time": 15579
+    },
+    {
+      "nodename": "BPL审批",
+      "id": 7315,
+      "time": 0
+    },
+    {
+      "nodename": "CPO",
+      "id": 7316,
+      "time": 0
+    },
+    {
+      "nodename": "CPO(子公司)",
+      "id": 7317,
+      "time": 0
+    },
+    {
+      "nodename": "薪资归档",
+      "id": 7318,
+      "time": 2131
+    }
+  ]
+}

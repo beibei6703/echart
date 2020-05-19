@@ -1,0 +1,23 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "report-system-service",
+    "data": [
+        {
+            "workCode": "0001",
+            "name": "肖尚略",
+            "nickname": "泰迪"
+        },
+        {
+            "workCode": "0021",
+            "name": "郝焕",
+            "nickname": "校长"
+        },
+        {
+            "workCode": "0290",
+            "name": "张铁成",
+            "nickname": "铁哥"
+        }
+    ],
+    "success": true
+}

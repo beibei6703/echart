@@ -1,0 +1,5 @@
+{
+  "code": 1,
+  "message": "登陆成功",
+  "data": [{"menuValue": "/systemregistry/addsystem"},{ "menuValue": "/userimpower"}, { "menuValue": "/group"}, { "menuValue": "/impower"}, { "menuValue": "/grounpimpower"}, { "menuValue": "/grounpallot"}, { "menuValue": "/grounpnewadd"}, { "menuValue": "/roleconfig"}, { "menuValue": "/systemregistry"}, { "menuValue": "/meunregistry"}]
+}

@@ -1,0 +1,252 @@
+{
+    "success": true,
+    "msg": "查询成功",
+    "data": [
+      {
+        "id": 1,
+        "typedesc": "系统默认工作流",
+        "typename": "XT-系统默认工作流",
+        "dsporder": 99
+      },
+      {
+        "id": 2,
+        "typedesc": "日常工作",
+        "typename": "XT-日常工作",
+        "dsporder": 100
+      },
+      {
+        "id": 3,
+        "typedesc": "总结和计划",
+        "typename": "XT-总结和计划",
+        "dsporder": 100
+      },
+      {
+        "id": 4,
+        "typedesc": "通知",
+        "typename": "XT-通知",
+        "dsporder": 100
+      },
+      {
+        "id": 5,
+        "typedesc": "费用相关",
+        "typename": "XT-费用相关",
+        "dsporder": 100
+      },
+      {
+        "id": 6,
+        "typedesc": "服务支持",
+        "typename": "XT-服务支持",
+        "dsporder": 100
+      },
+      {
+        "id": 7,
+        "typedesc": "人事管理",
+        "typename": "XT-人事管理",
+        "dsporder": 100
+      },
+      {
+        "id": 8,
+        "typedesc": "资产管理",
+        "typename": "XT-资产管理",
+        "dsporder": 100
+      },
+      {
+        "id": 9,
+        "typedesc": "公文管理",
+        "typename": "XT-公文管理",
+        "dsporder": 100
+      },
+      {
+        "id": 10,
+        "typedesc": "合同管理",
+        "typename": "XT-合同管理",
+        "dsporder": 100
+      },
+      {
+        "id": 11,
+        "typedesc": "考勤相关",
+        "typename": "XT-考勤相关",
+        "dsporder": 100
+      },
+      {
+        "id": 12,
+        "typedesc": "文档审批",
+        "typename": "XT-文档审批",
+        "dsporder": 100
+      },
+      {
+        "id": 13,
+        "typedesc": "报表填报",
+        "typename": "XT-报表填报",
+        "dsporder": 100
+      },
+      {
+        "id": 14,
+        "typedesc": "XT-网上报销",
+        "typename": "XT-网上报销",
+        "dsporder": 999
+      },
+      {
+        "id": 15,
+        "typedesc": "人事类",
+        "typename": "人事服务类",
+        "dsporder": -89
+      },
+      {
+        "id": 16,
+        "typedesc": "法务类",
+        "typename": "法务类",
+        "dsporder": -79
+      },
+      {
+        "id": 18,
+        "typedesc": "商品类",
+        "typename": "商品类",
+        "dsporder": -49
+      },
+      {
+        "id": 19,
+        "typedesc": "行政类",
+        "typename": "行政类",
+        "dsporder": -69
+      },
+      {
+        "id": 20,
+        "typedesc": "账号权限类",
+        "typename": "账号权限类",
+        "dsporder": -59
+      },
+      {
+        "id": 21,
+        "typedesc": "YJ-无效流程",
+        "typename": "YJ-无效流程",
+        "dsporder": 5
+      },
+      {
+        "id": 23,
+        "typedesc": "NC",
+        "typename": "NC",
+        "dsporder": 10
+      },
+      {
+        "id": 25,
+        "typedesc": "财务结算类",
+        "typename": "财务结算类",
+        "dsporder": -98
+      },
+      {
+        "id": 26,
+        "typedesc": "财务费用类",
+        "typename": "财务费用类",
+        "dsporder": -99
+      },
+      {
+        "id": 27,
+        "typedesc": "物流公司类",
+        "typename": "物流公司类",
+        "dsporder": -39
+      },
+      {
+        "id": 28,
+        "typedesc": "金融公司类",
+        "typename": "金融公司类",
+        "dsporder": -29
+      },
+      {
+        "id": 29,
+        "typedesc": "人事考勤类",
+        "typename": "人事考勤类",
+        "dsporder": -88
+      },
+      {
+        "id": 30,
+        "typedesc": "人事管理类",
+        "typename": "人事管理类",
+        "dsporder": -87
+      },
+      {
+        "id": 31,
+        "typedesc": "历史流程",
+        "typename": "历史流程",
+        "dsporder": 0
+      },
+      {
+        "id": 32,
+        "typedesc": "商品-业务集成类",
+        "typename": "商品-业务集成类",
+        "dsporder": -48
+      },
+      {
+        "id": 42,
+        "typedesc": "IT类",
+        "typename": "IT类",
+        "dsporder": -58
+      },
+      {
+        "id": 43,
+        "typedesc": "风控类",
+        "typename": "风控类",
+        "dsporder": 1
+      },
+      {
+        "id": 44,
+        "typedesc": "云币/余额",
+        "typename": "云币/余额",
+        "dsporder": -28
+      },
+      {
+        "id": 45,
+        "typedesc": "综合类",
+        "typename": "综合类",
+        "dsporder": -50
+      },
+      {
+        "id": 38,
+        "typedesc": "云合-费用类",
+        "typename": "云合-费用类",
+        "dsporder": -19
+      },
+      {
+        "id": 40,
+        "typedesc": "安徽德略-考勤类",
+        "typename": "安徽德略-考勤类",
+        "dsporder": 0
+      },
+      {
+        "id": 46,
+        "typedesc": "小店项目",
+        "typename": "小店项目",
+        "dsporder": -20
+      },
+      {
+        "id": 17,
+        "typedesc": "财务类",
+        "typename": "财务资金类",
+        "dsporder": -97
+      },
+      {
+        "id": 24,
+        "typedesc": "【测试流程】",
+        "typename": "【测试流程】",
+        "dsporder": 0
+      },
+      {
+        "id": 33,
+        "typedesc": "人力资源类",
+        "typename": "人力服务类",
+        "dsporder": 0
+      },
+      {
+        "id": 39,
+        "typedesc": "安徽德略-人事类",
+        "typename": "安徽德略-人事类",
+        "dsporder": 0
+      },
+      {
+        "id": 41,
+        "typedesc": "云合-综合类",
+        "typename": "云合-综合类",
+        "dsporder": -16
+      }
+    ]
+  }

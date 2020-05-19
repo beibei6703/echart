@@ -1,0 +1,45 @@
+{
+    "success": true,
+    "msg": "请求成功",
+    "data": {
+        "pageSize": 3,
+        "pageNum": 1,
+        "total": 17,
+        "totalPage": 6,
+        "data": [
+            {
+                "requestCount": 5,
+                "workflowname": "外训协议签订流程",
+                "endCount": 5,
+                "nodeCoune": 4,
+                "typeId": 30,
+                "baseId": 200,
+                "time": 61761,
+                "typedesc": "人事管理类",
+                "waitCount": 0
+            },
+            {
+                "requestCount": 1700,
+                "workflowname": "转正提醒流程",
+                "endCount": 1349,
+                "nodeCoune": 3,
+                "typeId": 30,
+                "baseId": 279,
+                "time": 47132111,
+                "typedesc": "人事管理类",
+                "waitCount": 351
+            },
+            {
+                "requestCount": 77,
+                "workflowname": "【代理申请】收入证明申请流程",
+                "endCount": 1,
+                "nodeCoune": 8,
+                "typeId": 30,
+                "baseId": 504,
+                "time": 0,
+                "typedesc": "人事管理类",
+                "waitCount": 76
+            }
+        ]
+    }
+}

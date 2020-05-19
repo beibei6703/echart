@@ -1,0 +1,38 @@
+{
+    "code": 0,
+    "message": "成功!",
+    "appName": "report-system-service",
+    "data": {
+          "offset": 0,
+          "limit": 5000,
+          "total": 1,
+          "count": null,
+          "pageNo": 1,
+          "pageSize": 5000,
+          "list": [
+              {
+              "id": 1,
+              "name": "OA系统需求报表",
+              "systemId": 1,
+              "systemName": "OA系统",
+              "parentId": 0,
+              "parentName":"无",
+              "address":"",
+              "level":1,
+              "gmtCreated":"2020-02-17 14:29:34",
+              "gmtModified":"2020-02-17 14:45:12"
+              } ,  {
+                "id": 2,
+                "name": "OA系统需求报表",
+                "systemId": 1,
+                "systemName": "OA系统",
+                "parentId": 1,
+                "parentName":"无",
+                "address":"",
+                "level":2,
+                "gmtCreated":"2020-02-17 14:29:34",
+                "gmtModified":"2020-02-17 14:45:12"
+                }    ]
+            },
+    "success": true
+  }
